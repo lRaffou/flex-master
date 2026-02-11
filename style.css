@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background: #4d6aff;
+    background: radial-gradient(circle, rgba(77, 106, 255, 1) 37%, rgba(34, 0, 255, 1) 100%);
+    font-family: 'Poppins', sans-serif;
+}
